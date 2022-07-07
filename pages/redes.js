@@ -8,7 +8,7 @@ function redes() {
 				<div className="w-full my-20 h-auto flex flex-col justify-center items-center md:gap-9">
 					<p className="text-sm uppercase text-gray-400">Vamos nos conectar?!</p>
 					<h1 className="text-indigo-900 text-6xl font-bold text-center">
-						Redes Socias
+						Redes Sociais
 					</h1>
 					<div className="flex justify-center items-center cursor-pointer">
 							<BsLinkedin className="w-10 h-10 bg-blue-900 text-gray-100 m-3 p-1 shadow-xl rounded-md" />
